@@ -1,0 +1,5 @@
+mkdir expense-tracker
+cd expense-tracker
+npm init -y
+npm install express ejs mongoose dotenv
+npm install --save-dev nodemon
